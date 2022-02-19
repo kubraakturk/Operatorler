@@ -1,0 +1,16 @@
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\bin\Debug\net5.0\Oparatorler.exe
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\bin\Debug\net5.0\Oparatorler.deps.json
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\bin\Debug\net5.0\Oparatorler.runtimeconfig.json
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\bin\Debug\net5.0\Oparatorler.runtimeconfig.dev.json
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\bin\Debug\net5.0\Oparatorler.dll
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\bin\Debug\net5.0\ref\Oparatorler.dll
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\bin\Debug\net5.0\Oparatorler.pdb
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.csproj.AssemblyReference.cache
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.AssemblyInfoInputs.cache
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.AssemblyInfo.cs
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.csproj.CoreCompileInputs.cache
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.dll
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\ref\Oparatorler.dll
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.pdb
+C:\Users\Host\Desktop\ConsoleOrnekler\Oparatorler\obj\Debug\net5.0\Oparatorler.genruntimeconfig.cache
